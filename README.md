@@ -1,16 +1,16 @@
-# Prework - iOS101-Prework
+# Prework - *iOS101-Prework*
 
-Submitted by: Elias Chikwanda
+Submitted by: **Elias Chikwanda**
 
-iOS101-Prework is an app that shows my name, university name, and my aspirational job. It has the button that changes the background color.
+**iOS101-Prework** is an app that shows my name, university name, and aspirational job. It has a button that changes the background color.
 
-Time spent: 2 hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
+- [ ] Users see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
